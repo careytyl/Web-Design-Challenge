@@ -1,4 +1,3 @@
-# Web-Design-Challenge
+# Web Design
 
-VERY basic submission due to moving to a new house and having no internet for enough time to make
-this difficult
+Some basic HTML that uses Bootstrap.
